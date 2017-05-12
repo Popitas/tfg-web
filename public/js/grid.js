@@ -329,7 +329,7 @@ var Grid = (function() {
 		var preview = $.data( this, 'preview' );
 		preview.close();
 		$.removeData( this, 'preview' );
-		removeinlinecss();
+		//removeinlinecss();
 	}
 
 	function removeinlinecss(){ $ ('ul li').each(function(){
@@ -349,9 +349,16 @@ var Grid = (function() {
 		create : function() {
 			// create Preview structure:
 			this.$title = $( '<h3></h3>' );
+			this.$date = $( '<h4></h4>' );
+			this.$place = $( '<h5></h5>' );
 			this.$description = $( '<p></p>' );
 			this.$href = $( '<a href="#">Visit website</a>' );
-			this.$details = $( '<div class="og-details"></div>' ).append( this.$title, this.$description, this.$href );
+			this.$details = $( '<div class="og-details"></div>' ).append(
+				this.$title,
+				this.$date,
+				this.$place,
+				this.$description,
+				this.$href );
 			this.$loading = $( '<div class="og-loading"></div>' );
 			this.$fullimage = $( '<div class="og-fullimg"></div>' ).append( this.$loading );
 			this.$closePreview = $( '<span class="og-close"></span>' );
@@ -388,10 +395,14 @@ var Grid = (function() {
 					href : $itemEl.attr( 'href' ),
 					largesrc : $itemEl.data( 'largesrc' ),
 					title : $itemEl.data( 'title' ),
+					date : $itemEL.data( 'date' ),
+					place : $itemEL.data( 'place' ),
 					description : $itemEl.data( 'description' )
 				};
 
 			this.$title.html( eldata.title );
+			this.$date.html( eldata.date );
+			this.$place.html( eldata.place );
 			this.$description.html( eldata.description );
 			this.$href.attr( 'href', eldata.href );
 
@@ -424,7 +435,7 @@ var Grid = (function() {
 				// set the height for the preview and the item
 				this.setHeights();
 				// scroll to position the preview in the right place
-				//this.positionPreview();
+				this.positionPreview();
 			}, this ), 25 );
 
 		},
@@ -500,8 +511,8 @@ var Grid = (function() {
 			// case 3 : preview height + item height does not fit in window´s height and preview height is bigger than window´s height
 			var position = this.$item.data( 'offsetTop' ),
 				previewOffsetT = this.$previewEl.offset().top - scrollExtra,
-				//scrollVal = this.height + this.$item.data( 'height' ) + marginExpanded <= winsize.height ? position : this.height < winsize.height ? previewOffsetT - ( winsize.height - this.height ) : previewOffsetT;
-				scrollVal = this.height;
+				scrollVal = this.height + this.$item.data( 'height' ) + marginExpanded <= winsize.height ? position : this.height < winsize.height ? previewOffsetT - ( winsize.height - this.height ) : previewOffsetT;
+				//scrollVal = this.height;
 			$body.animate( { scrollTop : scrollVal }, settings.speed );
 
 		},

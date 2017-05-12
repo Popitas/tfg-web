@@ -2,15 +2,12 @@
 
 @section('cover')
 <div class="background" id="cover">
-    <div>
-
+    <div class="message-centered">
+        <a href="#promo" class="page-scroll">Ver eventos destacados</a>
     </div>
 </div>
 @endsection
 
 @section('content')
-    @include('includes.1')
-    @include('includes.2')
-    @include('includes.3')
-    @include('includes.4')
+    @include('includes.promo')
 @endsection

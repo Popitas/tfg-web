@@ -115,6 +115,19 @@
 	margin-bottom: 10px;
 }
 
+.og-details h4 {
+	font-weight: 400;
+	font-size: 10pt;
+	padding: 40px 0 10px;
+}
+
+.og-details h5 {
+	font-weight: 400;
+	font-size: 10pt;
+	padding: 40px 0 10px;
+	margin-bottom: 10px;
+}
+
 .og-details p {
 	font-weight: 400;
 	font-size: 16px;
