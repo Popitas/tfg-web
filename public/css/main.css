@@ -7,6 +7,16 @@ html, body {
     margin: 0;
 }
 
+h1 {
+    font-weight: 100;
+    font-size: 40pt;
+}
+
+.section-title {
+    text-align: center;
+    margin-bottom: 10%;
+}
+
 .container-fluid {
     padding: 0;
     margin: 0;
@@ -28,17 +38,22 @@ html, body {
     height: 100%;
 }
 
+.main {
+    max-width: 800px;
+    z-index: 997;
+}
+
 .navbar {
     position: absolute;
     text-align: center;
-    width: 100%
+    width: 100%;
 }
 
 .navbar-title {
     font-size: 20pt;
     font-weight: 600;
     text-transform: uppercase;
-    letter-spacing: .7rem;
+    letter-spacing: .9rem;
     margin: 5% 0 40px 0;
 }
 
@@ -59,8 +74,9 @@ html, body {
     position: fixed;
     display: none;
     text-align: center;
-    margin: 30px 0;
+    padding: 20px 0;
     z-index: 999;
+    background-color: #fff;
 }
 
 .navbar-content-title {
@@ -95,19 +111,27 @@ html, body {
 }
 
 .message-centered a {
-    padding: 10px 20px;
-    border-style: solid;
-    border-width: 2.5pt;
-    border-color: #37474f;
-    font-weight: 600;
-    text-transform: uppercase;
-    font-size: 12pt;
-    letter-spacing: .1rem;
+	font-weight: 700;
+	font-size: 16px;
+	color: #333;
+	text-transform: uppercase;
+	letter-spacing: 2px;
+	padding: 10px 20px;
+	border: 3px solid #333;
+	display: inline-block;
+	margin: 30px 0 0;
+	outline: none;
     text-decoration: none;
-    color: inherit;
+}
+
+.message-centered a::before {
+	content: '\2192';
+	display: inline-block;
+	margin-right: 10px;
 }
 
 .message-centered a:hover {
+	border-color: #999;
+	color: #999;
     text-decoration: none;
-    color: inherit;
 }

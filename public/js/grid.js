@@ -289,6 +289,7 @@ var Grid = (function() {
 	}
 
 	function showPreview( $item ) {
+		//$(".navbar-content").css("background-color", "#fff");
 
 		var preview = $.data( this, 'preview' ),
 			// item´s offset top
@@ -325,6 +326,7 @@ var Grid = (function() {
 	}
 
 	function hidePreview() {
+		//$(".navbar-content").css("background-color", "");
 		current = -1;
 		var preview = $.data( this, 'preview' );
 		preview.close();
@@ -352,7 +354,7 @@ var Grid = (function() {
 			this.$date = $( '<h4></h4>' );
 			this.$place = $( '<h5></h5>' );
 			this.$description = $( '<p></p>' );
-			this.$href = $( '<a href="#">Visit website</a>' );
+			this.$href = $( '<span>Quiero ir</span>' );
 			this.$details = $( '<div class="og-details"></div>' ).append(
 				this.$title,
 				this.$date,
@@ -383,7 +385,7 @@ var Grid = (function() {
 				$currentItem.removeClass( 'og-expanded' );
 				this.$item.addClass( 'og-expanded' );
 				// position the preview correctly
-				//this.positionPreview();
+				this.positionPreview();
 			}
 
 			// update current value
@@ -395,9 +397,9 @@ var Grid = (function() {
 					href : $itemEl.attr( 'href' ),
 					largesrc : $itemEl.data( 'largesrc' ),
 					title : $itemEl.data( 'title' ),
-					date : $itemEL.data( 'date' ),
-					place : $itemEL.data( 'place' ),
-					description : $itemEl.data( 'description' )
+					date : $itemEl.data( 'date' ),
+					place : $itemEl.data( 'place' ),
+					description : $itemEl.data( 'description' ),
 				};
 
 			this.$title.html( eldata.title );
