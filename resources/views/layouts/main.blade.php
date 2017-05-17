@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>Eventia</title>
+        <title>@yield('title')</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700" rel="stylesheet" type="text/css">
@@ -13,28 +13,26 @@
         <!-- Styles -->
         <link href="css/bootstrap.min.css" rel="stylesheet" type="text/css">
         <link href="css/scrolling-nav.css" rel="stylesheet" type="text/css">
-        <link rel="stylesheet" type="text/css" href="css/default.css" />
-		<link rel="stylesheet" type="text/css" href="css/component.css" />
+        <link rel="stylesheet" type="text/css" href="css/default.css">
+		<link rel="stylesheet" type="text/css" href="css/component.css">
 
         <link href="css/main.css" rel="stylesheet" type="text/css">
 
-		<script src="js/modernizr.custom.js"></script>
+        <script src="js/modernizr.custom.js"></script>
+
 
     </head>
     <body>
-        <div class="full-height">
-            @include('includes.navbar')
+        <div class="full-height bodywrapper">
             @yield('cover')
-            @include('includes.navbar-content')
             @yield('content')
         </div>
 
-
         <script src="js/jquery.js"></script>
-        <script src="js/scrolling-nav.js"></script>
         <script src="js/jquery.easing.min.js"></script>
-        <script src="js/grid.js"></script>
         <script src="js/jquery.visible.min.js"></script>
+        <script src="js/scrolling-nav.js"></script>
+        <script src="js/grid.js"></script>
 
         <script src="js/main.js"></script>
     </body>

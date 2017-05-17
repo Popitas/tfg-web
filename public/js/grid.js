@@ -289,7 +289,7 @@ var Grid = (function() {
 	}
 
 	function showPreview( $item ) {
-		//$(".navbar-content").css("background-color", "#fff");
+		//$(".navbar-main").css("background-color", "#fff");
 
 		var preview = $.data( this, 'preview' ),
 			// item´s offset top
@@ -326,7 +326,7 @@ var Grid = (function() {
 	}
 
 	function hidePreview() {
-		//$(".navbar-content").css("background-color", "");
+		//$(".navbar-main").css("background-color", "");
 		current = -1;
 		var preview = $.data( this, 'preview' );
 		preview.close();
