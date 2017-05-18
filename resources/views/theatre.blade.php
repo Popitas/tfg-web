@@ -85,21 +85,18 @@
         	</li>
             <li>
         		<a href=""
-                data-largesrc="imgs/mayumana_preview.jpg"
-                data-title="Mayumana Rumba Rialto"
-                data-date="04 de junio de 2017 @ 19:30"
-                data-place="Teatro Rialto, Madrid, España"
-                data-description="Mayumana es un grupo de danza y percusión
-                nacido en Israel fundado por Eylon Nuphar, Boaz Berman y el
-                productor Roy Oferen en 1997 (aunque la idea surgió en 1996) en
-                Tel-Aviv, Israel. Aunque el grupo nació en Israel sus componentes
-                son de varias nacionalidades. Su nombre proviene de Mayumanut
-                (en hebreo: מיומנות) palabra que significa habilidad o destreza.<br><br>
-                Sus espectáculos son de teatro, danza y percusión unidos. Las
-                coreografías que realizan son de gran vitalidad. La percusión
-                la suelen realizar sobre objetos pintorescos como contenedores
-                de basura y otros objetos reciclados.">
-        			<img src="imgs/mayumana_thumb.jpg" alt="img01"/>
+                data-largesrc="imgs/carmen_preview.jpg"
+                data-title="Carmen"
+                data-date="08 de julio de 2017 @ 21:00"
+                data-place="Auditorio El Batel, Cartagena, España"
+                data-description="Carmen es una ópera dramática en cuatro actos
+                con música de Georges Bizet y libreto en francés de Ludovic
+                Halévy y Henri Meilhac, basado en la novela Carmen de Prosper
+                Mérimée, publicada por vez primera en 1845, la cual a su vez
+                posiblemente estuviera influida por el poema narrativo Los
+                gitanos (1824) de Aleksandr Pushkin. Mérimée había leído el
+                poema en ruso en 1840 y lo tradujo al francés en 1852.">
+        			<img src="imgs/carmen_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
             <li>

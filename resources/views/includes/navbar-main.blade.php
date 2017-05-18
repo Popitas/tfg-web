@@ -18,7 +18,7 @@
         </a>
         <a href="{{ route('comedy') }}"
             class="{{ (Request::is('comedy') ? 'active transition' : 'transition') }}">
-            Comedia y magia
+            Comedia y espectáculo
         </a>
     </span>
 </div>

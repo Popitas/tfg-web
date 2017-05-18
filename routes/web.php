@@ -28,5 +28,5 @@ Route::get('/theatre', function () {
 })->name('theatre');
 
 Route::get('/comedy', function () {
-    return view('music');
+    return view('comedy');
 })->name('comedy');
