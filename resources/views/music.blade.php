@@ -28,21 +28,6 @@
         	</li>
             <li>
         		<a href=""
-                data-largesrc="imgs/previews/mamma_preview.jpg"
-                data-title="Mamma Mia! El Musical"
-                data-date="11 de junio de 2017 @ 18:00"
-                data-place="Teatro Coliseum, Madrid, España"
-                data-description="El musical Mamma Mia! se estrenó por primera
-                vez en España hace 12 años y ya ha enamorado a más de 60
-                millones de espectadores en todo el mundo. Este espectáculo
-                se ha representado hasta en 440 ciudades y, después de 18 años
-                en cartel ininterrumpidamente, continúa representándose con
-                gran éxito en el West End londinense.">
-        			<img src="imgs/thumbs/mamma_thumb.jpg" alt="img01"/>
-        		</a>
-        	</li>
-            <li>
-        		<a href=""
                 data-largesrc="imgs/previews/gaga_preview.jpg"
                 data-title="Lady Gaga"
                 data-date="21 de septiembre de 2017 @ 19:30"
@@ -119,6 +104,27 @@
                 bienvenida a artistas como Black Coffee, Luciano, Mathias
                 Tanzmann o Apollonia.">
         			<img src="imgs/thumbs/ibiza_thumb.jpg" alt="img01"/>
+        		</a>
+        	</li>
+            <li>
+        		<a href=""
+                data-largesrc="imgs/test1_preview.jpg"
+                data-title="El amor no duele"
+                data-date="Si hay salida a la violencia de género, es gracias a ti"
+                data-place="016: teléfono contra el maltrato"
+                data-description="<p class='info'>La erradicación de la
+                violencia de género es posible con la implicación de toda
+                la sociedad.</p>
+                La violencia
+                contra la mujer es «todo acto de violencia de género que
+                resulte o pueda tener como resultado un daño físico, sexual o
+                psicológico para las mujeres, inclusive las amenazas de tales
+                actos, la coacción o la privación arbitraria de libertad, tanto
+                si se producen en la vida pública como en la privada».
+                Se reconoce como una pandemia que afecta al 50 % de la
+                población mundial, habiendo sido hasta un 70 % de las mujeres
+                víctimas de esa violencia en algún momento de su vida.">
+        			<img src="imgs/test1_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
         </ul>

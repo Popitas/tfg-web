@@ -9,15 +9,13 @@
                 data-date="3 de junio de 2017 @ 19:45"
                 data-place="Cardiff, Gales, Reino Unido"
                 data-description="La Liga de Campeones de la UEFA (en inglés:
-                UEFA Champions League), anteriormente conocida como Copa de
-                Europa, es el torneo internacional oficial de fútbol más
+                UEFA Champions League), es el torneo internacional de fútbol más
                 prestigioso a nivel de clubes entre las competiciones
                 organizadas por la Unión de Asociaciones Europeas de Fútbol
                 (UEFA).<br><br>
                 El ganador de esta competición disputa la Supercopa de Europa
-                y, como representante de la confederación, la Copa Mundial de
-                Clubes de la FIFA. El vigente campeón es el Real Madrid Club
-                de Fútbol, que logró su undécimo título tras vencer al Club
+                y la Copa Mundial de Clubes de la FIFA. El vigente campeón es el Real Madrid CF,
+                que logró su undécimo título tras vencer al Club
                 Atlético de Madrid, siendo además el club más laureado de la
                 competición.">
         			<img src="imgs/thumbs/champions_thumb.jpg" alt="img01"/>
@@ -100,22 +98,23 @@
         	</li>
             <li>
         		<a href=""
-                data-largesrc="imgs/previews/gaga_preview.jpg"
-                data-title="Lady Gaga"
-                data-date="21 de septiembre de 2017 @ 19:30"
-                data-place="Palau Sant Jordi, Barcelona, España"
-                data-description="Stefani Joanne Angelina Germanotta (Nueva
-                York, 28 de marzo de 1986), más conocida por su nombre
-                artístico Lady Gaga, es una cantante, compositora, productora,
-                bailarina, activista y diseñadora de moda estadounidense.<br><br>
-                Lady Gaga adquirió fama como artista tras el lanzamiento de su
-                álbum debut, The Fame (2008), que incluye los sencillos
-                «Just Dance» y «Poker Face».
-                Su éxito permitió a la cantante realizar una gira de 8 meses
-                que se considera como una de las series de conciertos con
-                mayores ingresos económicos generados en la historia de la
-                industria musical.">
-        			<img src="imgs/thumbs/gaga_thumb.jpg" alt="img01"/>
+                data-largesrc="imgs/test1_preview.jpg"
+                data-title="El amor no duele"
+                data-date="Si hay salida a la violencia de género, es gracias a ti"
+                data-place="016: teléfono contra el maltrato"
+                data-description="<p class='info'>La erradicación de la
+                violencia de género es posible con la implicación de toda
+                la sociedad.</p>
+                La violencia
+                contra la mujer es «todo acto de violencia de género que
+                resulte o pueda tener como resultado un daño físico, sexual o
+                psicológico para las mujeres, inclusive las amenazas de tales
+                actos, la coacción o la privación arbitraria de libertad, tanto
+                si se producen en la vida pública como en la privada».
+                Se reconoce como una pandemia que afecta al 50 % de la
+                población mundial, habiendo sido hasta un 70 % de las mujeres
+                víctimas de esa violencia en algún momento de su vida.">
+        			<img src="imgs/test1_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
         </ul>

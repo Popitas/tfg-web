@@ -24,7 +24,7 @@ Route::get('/sports', function () {
 })->name('sports');
 
 Route::get('/theatre', function () {
-    return view('music');
+    return view('theatre');
 })->name('theatre');
 
 Route::get('/comedy', function () {

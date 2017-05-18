@@ -13,15 +13,13 @@
                 data-date="3 de junio de 2017 @ 19:45"
                 data-place="Cardiff, Gales, Reino Unido"
                 data-description="La Liga de Campeones de la UEFA (en inglés:
-                UEFA Champions League), anteriormente conocida como Copa de
-                Europa, es el torneo internacional oficial de fútbol más
+                UEFA Champions League), es el torneo internacional de fútbol más
                 prestigioso a nivel de clubes entre las competiciones
                 organizadas por la Unión de Asociaciones Europeas de Fútbol
                 (UEFA).<br><br>
                 El ganador de esta competición disputa la Supercopa de Europa
-                y, como representante de la confederación, la Copa Mundial de
-                Clubes de la FIFA. El vigente campeón es el Real Madrid Club
-                de Fútbol, que logró su undécimo título tras vencer al Club
+                y la Copa Mundial de Clubes de la FIFA. El vigente campeón es el Real Madrid CF,
+                que logró su undécimo título tras vencer al Club
                 Atlético de Madrid, siendo además el club más laureado de la
                 competición.">
         			<img src="imgs/thumbs/champions_thumb.jpg" alt="img01"/>
@@ -69,62 +67,65 @@
         	</li>
             <li>
         		<a href=""
-                data-largesrc="imgs/previews/weeknd_preview.jpg"
-                data-title="The Weeknd"
-                data-date="01 de julio de 2017"
-                data-place="Kaisaniemen Puisto, Helsinki, Finlandia"
-                data-description="Abel Makkonen Tesfaye (Toronto, Canadá, 16 de
-                febrero de 1990), conocido como The Weeknd, es un cantante,
-                compositor y productor canadiense. A finales de 2010, Tesfaye
-                subió anónimamente varias canciones a YouTube bajo el nombre
-                The Weeknd. Lanzó tres mixtapes de nueve pistas a lo largo de
-                2011: House of Balloons, Thursday y Echoes of Silence,
-                que fueron muy aclamadas.<br><br>
-                The Weeknd ha ganado dos Premios Grammy y ha sido nominado para
-                un Premio de la Academia, y nueve Juno Awards. En septiembre
-                de 2016, fue anunciado el lanzamiento del tercer álbum,
-                «Starboy», junto con su primer sencillo titulado homonimamente,
-                que posteriormente alcanzó el número uno en el Billboard Hot 100.">
-        			<img src="imgs/thumbs/weeknd_thumb.jpg" alt="img01"/>
+                data-largesrc="imgs/moto_preview.jpg"
+                data-title="Motos: GP Catalunya"
+                data-date="9, 10 y 11 de junio de 2017"
+                data-place="Circuit de Bercelona-Catalunya , Montmeló, España"
+                data-description="El Circuito de Barcelona-Cataluña
+                (en catalán y oficialmente, Circuit de Barcelona-Catalunya),
+                también conocido como Circuito de Montmeló o Circuito de
+                Barcelona, es un autódromo situado en las poblaciones de
+                Montmeló (sectores 1 y 2) y Granollers (sector 3), en la
+                provincia de Barcelona, comunidad autónoma de Cataluña, España.<br><br>
+                Inaugurado en el año 1991, tiene un aforo de 131.000
+                espectadores, y acoge diversas competiciones entre las que
+                destacan el Gran Premio de España de Fórmula 1 y el Gran Premio
+                de Cataluña de Motociclismo del Campeonato Mundial de
+                Motociclismo. También es uno de los circuitos más utilizados
+                para los ensayos de los diferentes equipos europeos durante
+                el receso de invierno.">
+        			<img src="imgs/moto_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
             <li>
         		<a href=""
-                data-largesrc="imgs/previews/sting_preview.jpg"
-                data-title="Sting"
-                data-date="17 de julio de 2017 @ 19:00"
-                data-place="Marenostrum Castle Park-Castillo Sohail, Fuengirola, España"
-                data-description="Gordon Matthew Thomas Sumner, CBE
-                (Wallsend, 2 de octubre de 1951), más conocido como Sting, es
-                un músico británico que se desempeñó inicialmente como bajista,
-                y más tarde como cantante y bajista del grupo musical
-                The Police. También ha dado su toque personal a algunas
-                canciones renacentistas junto a laudistas profesionales.<br><br>
-                Como miembro de The Police y como solista, Sting ha vendido más
-                de cien millones de discos, ha recibido más de dieciséis
-                Premios Grammy por su trabajo, recibiendo el primero por
-                «mejor interpretación de rock instrumental» en 1981, y obtuvo
-                una nominación a los premios Óscar por «mejor canción».">
-        			<img src="imgs/thumbs/sting_thumb.jpg" alt="img01"/>
+                data-largesrc="imgs/spartan_preview.jpg"
+                data-title="Spartan Race: Bilbao"
+                data-date="24 de junio de 2017"
+                data-place="Gobetas, Bilbao, España"
+                data-description="La Spartan Sprint: Es nuestra carrera más
+                corta. Es perfecta para los ateltas de todos los niveles;
+                desde Spartanos primerizos a corredores habituales. Esta
+                Sprint de + de 5km puede ser la más corta en distancia pero
+                incluye 20 de nuestros obstáculos más representativos.<br><br>
+                Reebok Spartan Super: Es nuestra distancia media. Más larga que
+                la Sprint y con más obstáculos, la Super probará tu resistencia,
+                perseverancia y compromiso. En los más de 13km de recorrido
+                encontraras más de 25 obstáculos llenos de barro y cada vez
+                más duros. La Super es tu primera prueba en tu camino hacia la
+                Trifecta.">
+        			<img src="imgs/spartan_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
             <li>
         		<a href=""
-                data-largesrc="imgs/previews/ibiza_preview.jpg"
-                data-title="Hï Ibiza Opening Party"
-                data-date="28 de mayo de 2017 @ 20:00"
-                data-place="Hï Ibiza, Playa d’en Bossa, Ibiza, España"
-                data-description="Hï Ibiza es el nuevo club de Ushuaïa
-                Entertainment situado en Playa d’en Bossa, el epicentro de la
-                música electrónica en Ibiza. Antes conocido como Space, ha sido
-                testigo de los mejores momentos de la música electrónica durante
-                los últimos años.<br><br>
-                A medida que la isla mira hacia el futuro y
-                entra en un nuevo capítulo con el lanzamiento de Hï Ibiza el
-                día 28 de mayo, el Opening será el día en el que se le dará la
-                bienvenida a artistas como Black Coffee, Luciano, Mathias
-                Tanzmann o Apollonia.">
-        			<img src="imgs/thumbs/ibiza_thumb.jpg" alt="img01"/>
+                data-largesrc="imgs/test1_preview.jpg"
+                data-title="El amor no duele"
+                data-date="Si hay salida a la violencia de género, es gracias a ti"
+                data-place="016: teléfono contra el maltrato"
+                data-description="<p class='info'>La erradicación de la
+                violencia de género es posible con la implicación de toda
+                la sociedad.</p>
+                La violencia
+                contra la mujer es «todo acto de violencia de género que
+                resulte o pueda tener como resultado un daño físico, sexual o
+                psicológico para las mujeres, inclusive las amenazas de tales
+                actos, la coacción o la privación arbitraria de libertad, tanto
+                si se producen en la vida pública como en la privada».
+                Se reconoce como una pandemia que afecta al 50 % de la
+                población mundial, habiendo sido hasta un 70 % de las mujeres
+                víctimas de esa violencia en algún momento de su vida.">
+        			<img src="imgs/test1_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
         </ul>

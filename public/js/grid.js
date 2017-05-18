@@ -354,7 +354,7 @@ var Grid = (function() {
 			this.$date = $( '<h4></h4>' );
 			this.$place = $( '<h5></h5>' );
 			this.$description = $( '<p></p>' );
-			this.$href = $( '<span>Quiero ir</span>' );
+			this.$href = $( '<span>Más información</span>' );
 			this.$details = $( '<div class="og-details"></div>' ).append(
 				this.$title,
 				this.$date,
