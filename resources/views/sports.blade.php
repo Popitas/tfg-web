@@ -36,13 +36,7 @@
                 Garros) —denominado así en honor al aviador francés Roland
                 Garros—, es un torneo de tenis que conforma el Grand Slam
                 jugado desde su inauguración en 1891 bajo la organización y
-                el amparo de la Federación Francesa de Tenis (FFT).<br><br>
-                Es el principal torneo celebrado sobre tierra batida en el
-                mundo y el segundo en orden cronológico de los Grand Slams
-                tras el Abierto de Australia, siendo a su vez el predecesor
-                del Campeonato de Wimbledon y del Abierto de Estados Unidos y
-                único de los cuatro grandes torneos celebrado sobre esta
-                superficie.">
+                el amparo de la Federación Francesa de Tenis (FFT).">
         			<img src="imgs/thumbs/garros_thumb.jpg" alt="img01"/>
         		</a>
         	</li>
@@ -57,8 +51,8 @@
                 Trestles es una rompiente y zona de surf
                 situada en San Clemente, California, Estados Unidos.
                 Las olas son un híbrido entre beach-break y ola de barra y
-                permiten hacer muchas maniobras. El fondo es de cantos rodados
-                aunque hay agua suficiente para no darse con ellos. Trestles lo
+                permiten hacer muchas maniobras. El fondo es de cantos rodados.
+                 Trestles lo
                 forman varios picos: Cotton Point, Upper Trestles, Lower
                 Trestles y Church. Cada uno de ellos rompe con una dirección de
                 mar distinta y en distinta época del año.">
@@ -71,12 +65,11 @@
                 data-title="Motos: GP Catalunya"
                 data-date="9, 10 y 11 de junio de 2017"
                 data-place="Circuit de Bercelona-Catalunya , Montmeló, España"
-                data-description="El Circuito de Barcelona-Cataluña
-                (en catalán y oficialmente, Circuit de Barcelona-Catalunya),
-                también conocido como Circuito de Montmeló o Circuito de
-                Barcelona, es un autódromo situado en las poblaciones de
-                Montmeló (sectores 1 y 2) y Granollers (sector 3), en la
-                provincia de Barcelona, comunidad autónoma de Cataluña, España.<br><br>
+                data-description="El Circuito de Barcelona-Cataluña,
+                también conocido como Circuito de Montmeló,
+                 es un autódromo situado en las poblaciones de
+                Montmeló y Granollers, en la
+                provincia de Barcelona.<br><br>
                 Inaugurado en el año 1991, tiene un aforo de 131.000
                 espectadores, y acoge diversas competiciones entre las que
                 destacan el Gran Premio de España de Fórmula 1 y el Gran Premio

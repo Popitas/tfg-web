@@ -1,7 +1,5 @@
-@extends('layouts.main')
-
-@section('content')
-@include('includes.navbar-main')
+<?php $__env->startSection('content'); ?>
+<?php echo $__env->make('includes.navbar-main', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
 
 <div class="container container-solo min-full-height">
     <div class="main">
@@ -124,4 +122,6 @@
         </ul>
     </div>
 </div>
-@endsection
+<?php $__env->stopSection(); ?>
+
+<?php echo $__env->make('layouts.main', array_except(get_defined_vars(), array('__data', '__path')))->render(); ?>
